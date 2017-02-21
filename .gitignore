@@ -1,0 +1,12 @@
+
+# ignore compiled files
+
+*re.cmi
+*re.cmo
+blink/led
+blink/led.asm
+hello-lcd/hw
+hello-lcd/hw.asm
+timer/timer
+timer/timer.asm
+
